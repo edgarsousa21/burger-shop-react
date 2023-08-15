@@ -4,7 +4,7 @@
 <img src="./src/assets/home.png" alt="home"/>
 <img src="./src/assets/orders.png" alt="assets"/>
 <h3>Projeto de hamburgueria, desenvolvido no React, onde o cliente faz o pedido, e o programa cadastra os pedidos e o nome do usuário, usando 
-<a href="https://github.com/edgarsousa21/hamburger_shop">o seguinte Backend.</a>
+<a href="https://github.com/edgarsousa21/burger-shop-back_end">o seguinte Backend.</a>
 </h3>
 
 
