@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+<h1>Projeto Hamburgueria Feito no React</h1>
+<img src="./src/assets/home.png" alt="home"/>
+<img src="./src/assets/orders.png" alt="assets"/>
+<h3>Projeto de hamburgueria, desenvolvido no React, onde o cliente faz o pedido, e o programa cadastra os pedidos e o nome do usuário, usando 
+<a href="https://github.com/edgarsousa21/hamburger_shop">o seguinte Backend.</a>
+</h3>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
